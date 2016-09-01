@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangkuan/Desktop/Test_code/TestService/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0e48beecde337ccb35bd86b8df41278d2b351309">
+        <dex dex="/Users/wangkuan/Desktop/Test_code/TestService/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_336e52f3f6394030b79382369ab3f1f0e002e946/classes.dex" />
+    </item>
+
+</items>
